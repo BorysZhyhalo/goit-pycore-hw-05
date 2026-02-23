@@ -280,13 +280,13 @@ Enter a command:
 ### Результат виконаного ДЗ
 
 1. 
-![Results](./Output/task_1.png)
+
 
 2. 
-![Results](./Output/task_2.png)
+
 
 3. 
-![Results](./Output/task_3.png)
+
 
 4. 
 ![Results](./Output/task_4.png)
