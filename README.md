@@ -262,7 +262,6 @@ def add_contact(args, contacts):
 #### Приклад використання:
 
 При запуску скрипту діалог із ботом повинен бути схожим на цей.
-
 ```bash
 Enter a command: add
 Enter the argument for the command
