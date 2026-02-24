@@ -280,7 +280,7 @@ Enter a command:
 ### Результат виконаного ДЗ
 
 1. 
-
+![Results](./output/task_1.png)
 
 2. 
 
@@ -289,5 +289,5 @@ Enter a command:
 
 
 4. 
-![Results](./Output/task_4.png)
+![Results](./output/task_4.png)
 
