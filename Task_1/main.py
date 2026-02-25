@@ -25,3 +25,18 @@ print(fib(10))
 print(fib(15))
 
 
+#========================= Версія 2 ==========================================#
+'''
+На лекції ще бачив реалізацію через lru_cache
+
+'''
+from functools import lru_cache
+
+@lru_cache(maxsize=None)
+def fibonacci(n):
+    if n < 2:
+        return n
+    return fibonacci(n - 1) + fibonacci(n - 2)
+
+print(fibonacci(10))  # 55
+print(fibonacci(15))  # 610
