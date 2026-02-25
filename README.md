@@ -285,7 +285,7 @@ Enter a command:
 ![Results](./output/task_2.png)
 
 3. 
-
+![Results](./output/task_3.png)
 
 4. 
 ![Results](./output/task_4.png)
