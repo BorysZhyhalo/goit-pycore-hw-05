@@ -282,7 +282,7 @@ Enter a command:
 ![Results](./output/task_1.png)
 
 2. 
-
+![Results](./output/task_2.png)
 
 3. 
 
